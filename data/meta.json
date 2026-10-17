@@ -1,0 +1,60 @@
+{
+ "categories": [
+  {
+   "id": "platform",
+   "title": "Full ecommerce platforms",
+   "anchor": "full-ecommerce-platforms",
+   "blurb": "Complete shops you can host yourself."
+  },
+  {
+   "id": "headless",
+   "title": "Headless commerce and APIs",
+   "anchor": "headless-commerce-and-apis",
+   "blurb": "Back ends you connect to your own front end."
+  },
+  {
+   "id": "storefront",
+   "title": "Storefront templates and front ends",
+   "anchor": "storefront-templates-and-front-ends",
+   "blurb": "Starter stores and UI kits."
+  },
+  {
+   "id": "shopify",
+   "title": "Shopify and marketplace tooling",
+   "anchor": "shopify-and-marketplace-tooling",
+   "blurb": "Apps, themes and SDKs for Shopify, WooCommerce and others."
+  },
+  {
+   "id": "payments",
+   "title": "Payments and checkout",
+   "anchor": "payments-and-checkout",
+   "blurb": "Take payments, handle tax and invoices."
+  },
+  {
+   "id": "inventory",
+   "title": "Inventory, orders and fulfillment",
+   "anchor": "inventory-orders-and-fulfillment",
+   "blurb": "Stock, warehouses and shipping."
+  },
+  {
+   "id": "sellers",
+   "title": "Seller tools and research",
+   "anchor": "seller-tools-and-research",
+   "blurb": "Price tracking, listing and marketplace helpers."
+  },
+  {
+   "id": "ai",
+   "title": "AI for ecommerce",
+   "anchor": "ai-for-ecommerce",
+   "blurb": "Search, recommendations and assistants for stores."
+  },
+  {
+   "id": "analytics",
+   "title": "Analytics and conversion",
+   "anchor": "analytics-and-conversion",
+   "blurb": "Measure funnels and test changes."
+  }
+ ],
+ "header": "<h1 align=\"center\">Awesome Ecommerce Tools</h1>\n\n<p align=\"center\"><img src=\"assets/banner.png\" alt=\"Awesome Ecommerce Tools\" width=\"100%\"></p>\n\n<p align=\"center\">\n<a href=\"https://awesome.re\"><img src=\"https://awesome.re/badge.svg\" alt=\"Awesome\"></a>\n<img src=\"https://img.shields.io/badge/PRs-welcome-brightgreen\" alt=\"PRs welcome\">\n<img src=\"https://img.shields.io/badge/license-CC0--1.0-blue\" alt=\"License CC0 1.0\">\n<a href=\"https://github.com/devanasolver/awesome-ecommerce-tools/commits/main\"><img src=\"https://img.shields.io/github/last-commit/devanasolver/awesome-ecommerce-tools\" alt=\"Last commit\"></a>\n</p>\n\n<p align=\"center\">\n<a href=\"https://github.com/devanasolver\"><img src=\"https://img.shields.io/badge/Follow-@devanasolver-181717?style=for-the-badge&logo=github\" alt=\"Follow on GitHub\"></a>\n<a href=\"https://github.com/devanasolver/awesome-ecommerce-tools/stargazers\"><img src=\"https://img.shields.io/github/stars/devanasolver/awesome-ecommerce-tools?style=for-the-badge&logo=github&label=Star%20this%20list\" alt=\"Star this list\"></a>\n<a href=\"https://buymeacoffee.com/isaac49\"><img src=\"https://img.shields.io/badge/Buy%20me%20a%20coffee-isaac49-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black\" alt=\"Buy me a coffee\"></a>\n</p>\n\n> Open-source storefronts, headless commerce engines, payments, inventory, marketplaces and seller tools for online stores. Every entry shows its license.\n\n**Rules of this list:** every repo exists, is public, is not archived, states a license and has had a commit in the last year. One plain sentence each. Star counts and claims are the authors' own, we did not test every tool. Checked 2026-10-18. See [CONTRIBUTING.md](CONTRIBUTING.md).",
+ "footer": "## How to choose\n\n- **Hosted or self-hosted?** Self-hosting is cheaper but you handle security, updates and PCI rules.\n- **Check the license.** Some engines are free for small shops and paid for large revenue.\n- **Do not store card numbers yourself.** Use a payment provider's hosted fields.\n- **Test the checkout** with real small orders before you launch.\n\n## Contributing\n\nSee [CONTRIBUTING.md](CONTRIBUTING.md). One entry per pull request, plain words, real sources only.\n\n## About\n\nMaintained by [@devanasolver](https://github.com/devanasolver). Listings follow the rules in CONTRIBUTING.\n\n## Sponsor me\n\nIf this list is useful, [buy me a coffee](https://buymeacoffee.com/isaac49).\n"
+}

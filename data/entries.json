@@ -1,0 +1,378 @@
+[
+  {
+    "repo": "meilisearch/meilisearch",
+    "category": "ai",
+    "description": "Fast open-source search engine, often used for product search.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "querqy/chorus",
+    "category": "ai",
+    "description": "Open-source stack for ecommerce search.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-03-21"
+  },
+  {
+    "repo": "typesense/typesense",
+    "category": "ai",
+    "description": "Fast open-source search engine with typo tolerance, used for product search.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "growthbook/growthbook",
+    "category": "analytics",
+    "description": "Feature flags and A/B testing with a warehouse-native approach.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "openreplay/openreplay",
+    "category": "analytics",
+    "description": "Session replay and product analytics you can self-host.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "plausible/analytics",
+    "category": "analytics",
+    "description": "Simple, privacy-friendly web analytics.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "PostHog/posthog",
+    "category": "analytics",
+    "description": "Product analytics, session replay and feature flags.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "umami-software/umami",
+    "category": "analytics",
+    "description": "Privacy-focused web analytics.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "lunarphp/lunar",
+    "category": "headless",
+    "description": "Laravel package for headless ecommerce.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "mercurjs/mercur",
+    "category": "headless",
+    "description": "Open-source marketplace platform on top of Medusa.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "EasyPost/easypost-python",
+    "category": "inventory",
+    "description": "Official Python client for EasyPost shipping.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "frappe/erpnext",
+    "category": "inventory",
+    "description": "Open-source ERP with inventory, orders and accounting.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "inventree/InvenTree",
+    "category": "inventory",
+    "description": "Open-source inventory management system.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "odoo/odoo",
+    "category": "inventory",
+    "description": "Open-source business apps including ecommerce, inventory and accounting.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "btcpayserver/btcpayserver",
+    "category": "payments",
+    "description": "Self-hosted Bitcoin payment processor with no fees.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "getlago/lago",
+    "category": "payments",
+    "description": "Open-source usage-based billing and metering API.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "invoiceninja/invoiceninja",
+    "category": "payments",
+    "description": "Invoicing, quotes and payments for small businesses.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "juspay/hyperswitch",
+    "category": "payments",
+    "description": "Open-source payments switch that routes across processors.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "killbill/killbill",
+    "category": "payments",
+    "description": "Open-source subscription billing and payments platform.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "stripe/stripe-node",
+    "category": "payments",
+    "description": "Official Stripe library for Node.js.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "stripe/stripe-python",
+    "category": "payments",
+    "description": "Official Stripe library for Python.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "aimeos/aimeos-laravel",
+    "category": "platform",
+    "description": "Laravel ecommerce package for shops and marketplaces.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "akeneo/pim-community-dev",
+    "category": "platform",
+    "description": "Open-source product information management (PIM) for product catalogs.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "bagisto/bagisto",
+    "category": "platform",
+    "description": "Open-source ecommerce and multi-vendor marketplace platform built on Laravel.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "evershopcommerce/evershop",
+    "category": "platform",
+    "description": "TypeScript ecommerce platform with a built-in storefront and admin.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "magento/magento2",
+    "category": "platform",
+    "description": "Magento Open Source ecommerce platform in PHP.",
+    "license": "OSL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "medusajs/medusa",
+    "category": "platform",
+    "description": "Open-source commerce modules and tools for building custom digital commerce.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "nopSolutions/nopCommerce",
+    "category": "platform",
+    "description": "Open-source ecommerce platform on ASP.NET Core.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "PrestaShop/PrestaShop",
+    "category": "platform",
+    "description": "Open-source ecommerce platform written in PHP.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "saleor/saleor",
+    "category": "platform",
+    "description": "Composable headless commerce API built with Python and GraphQL.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "shopware/shopware",
+    "category": "platform",
+    "description": "Open-source ecommerce platform in PHP, with a headless API.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "solidusio/solidus",
+    "category": "platform",
+    "description": "Open-source ecommerce framework for Ruby on Rails.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "spree/spree",
+    "category": "platform",
+    "description": "Open-source commerce platform for direct-to-consumer, B2B and marketplaces.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Sylius/Sylius",
+    "category": "platform",
+    "description": "Headless ecommerce platform on PHP and Symfony.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "unopim/unopim",
+    "category": "platform",
+    "description": "Open-source product information management for catalog data.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "vendurehq/vendure",
+    "category": "platform",
+    "description": "Headless commerce platform built with TypeScript and NestJS.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "woocommerce/woocommerce",
+    "category": "platform",
+    "description": "Ecommerce plugin for WordPress.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "amzn/selling-partner-api-models",
+    "category": "sellers",
+    "description": "Official models for Amazon's Selling Partner API.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "dgtlmoon/changedetection.io",
+    "category": "sellers",
+    "description": "Watch web pages for changes and price drops, self-hosted.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "YosefHayim/ebay-mcp",
+    "category": "sellers",
+    "description": "Local MCP server that connects AI assistants to eBay seller APIs.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-08"
+  },
+  {
+    "repo": "Shopify/cli",
+    "category": "shopify",
+    "description": "Command-line tool to build Shopify apps, themes and Hydrogen storefronts.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Shopify/dawn",
+    "category": "shopify",
+    "description": "Shopify's reference theme.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-09"
+  },
+  {
+    "repo": "Shopify/shopify-app-template-node",
+    "category": "shopify",
+    "description": "Starter template for a Shopify app with Node.js.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-05"
+  },
+  {
+    "repo": "Shopify/themekit",
+    "category": "shopify",
+    "description": "Command-line tool for Shopify theme development.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "saleor/storefront",
+    "category": "storefront",
+    "description": "Next.js storefront for Saleor.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "Shopify/hydrogen",
+    "category": "storefront",
+    "description": "Shopify's React framework for custom storefronts.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "vercel/commerce",
+    "category": "storefront",
+    "description": "Next.js ecommerce template for building a storefront.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-06"
+  }
+]
